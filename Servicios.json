@@ -1,0 +1,14 @@
+{
+    "Servicios:" : [
+        {
+"id_servicio" :11,
+"Clave" : "123234342sddsd",
+"Nombre" : "Cita por resfriado",
+"Costo" : 150.00,
+"fecha_creado" : "03-04-23",
+"id" : 1,
+"fecha_baja" : "05-06-23",
+"status" : 1
+}
+]
+}

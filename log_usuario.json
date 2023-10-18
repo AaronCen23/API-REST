@@ -1,0 +1,31 @@
+{
+    "log_usuarios": [
+        {
+
+        "id_log_usuarios": 1,
+        "id_usuarios" : 1,
+        "acceso" : "se le dio acceso al cliente Aaron",
+        "equipo" : "equipo de terapia turno matutino",
+        "sistema" : "sistema de prevención",
+        "fecha_creado" : 1800
+    },
+    {
+        "id_log_usuarios": 2,
+        "id_usuarios" : 2,
+        "acceso" : "se le dio acceso al cliente elias",
+        "equipo" : "equipo de terapia turno matutino",
+        "sistema" : "sistema de prevención",
+        "fecha_creado" : 1700
+    },
+    {
+
+        "id_log_usuarios": 3,
+        "id_usuarios" : 3,
+        "acceso" : "se le dio acceso al cliente wilberth",
+        "equipo" : "equipo de terapia turno matutino",
+        "sistema" : "sistema de prevención",
+        "fecha_creado" : 1900
+    }
+    ]
+    }
+ 

@@ -1,0 +1,18 @@
+{
+    "Personal:" : [
+        {
+  "id_personal" : 1,
+  "nombre" : "Cristina Rocha",
+  "especialidad" : "Quirurgico",
+  "cedula" : "CVRCAMO2909LMEDU",
+  "telefono" : "9851304531",
+  "fecha_alta" : "20-09-23",
+  "fecha_baja" : "N/A",
+  "personal_id_usuario" : 3,
+  "id_usuario" : 3,
+  "id_cubiculo" : 4,
+  "id_puesto" : 3
+
+}
+]
+}

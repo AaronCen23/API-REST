@@ -1,0 +1,27 @@
+{
+"pacientes" : [
+    {
+  "id_paciente" : 1,
+  "no_expediente" : "expediente realizado el dia 23 dejulio",
+  "nombre" : "Aaron Mateo Cen Pool",
+  "apellido_paterno" : "Cen",
+  "apellido_materno" : "Pool",
+  "edad": 23,
+  "sexo" : "'M: Masculino F: Femenino",
+  "domicilio" : "Calle 11 X 14 Y 16",
+  "telefono_celular_1" : "9851304531",
+  "telefono_celular_2" : "N/A",
+  "telefono_casa" : "N/A",
+  "email" : "mateitocen2305@gmail.com",
+  "fecha_nacimiento" : 230523,
+  "tipo_sanguineo" : "O positivo",
+  "fecha_alta" : "23-02-23",
+  "fecha_Modificacion" : "02-23-4",
+  "fecha_baja" : "01-01-22",
+  "status": "A",
+  "id_lista" : 1,
+  "id_citas_pacientes" : 1
+}
+]
+}
+
